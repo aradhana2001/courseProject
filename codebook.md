@@ -5,7 +5,6 @@ There are 68 columns in tidy data set , each is explained below
 
 | ColumnName	          |            Explanation                         |
 |:-------------------------------|:------------------------------------------------------|
-ColumnName  |  explanation
 activity_labels  |  The labels for activities that were performed by the subject
 subject  |  Identifier for Subject
 tBodyAcc.mean.X  |  Mean Time for body linear acceleration signals in X axis
