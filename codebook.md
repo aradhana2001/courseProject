@@ -1,7 +1,8 @@
-# Codebook.md
-## There are 68 columns in tidy data set , each is explained below
+Codebook.md
+There are 68 columns in tidy data set , each is explained below
 
 -- There are 180 observations - 30 subjects * 6 activities
+
 | ColumnName	          |            Explanation                         |
 |:-------------------------------|:------------------------------------------------------|
 ColumnName  |  explanation
